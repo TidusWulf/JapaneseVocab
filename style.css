@@ -1,48 +1,48 @@
 body {
-    box-sizing: border-box;
-    margin: auto;
-    max-width: 1256px;
+	box-sizing: border-box;
+	margin: auto;
+	max-width: 1256px;
 }
 
 #numbers {
-    background-color: orange;
-    width: 140px;
+	background-color: orange;
+	width: 140px;
 }
 
 #counting1 {
-    background-color: maroon;
-    width: 795px;
+	background-color: maroon;
+	width: 795px;
 }
 h1 {
-    margin-left: 10px;
+	margin-left: 10px;
 }
 
 h2 {
-    margin: 0px 10px;
-    padding-left: 5px;
-    border-radius: 2px 15px 15px 0px;
-    text-transform: uppercase;
-    color: white;
+	margin: 0px 10px;
+	padding-left: 5px;
+	border-radius: 2px 15px 15px 0px;
+	text-transform: uppercase;
+	color: white;
 }
 
 th, td {
-    border: 1px black solid;
-    padding: 2px 8px;
-    margin: 0px;
+	border: 1px black solid;
+	padding: 2px 8px;
+	margin: 0px;
 }
 
 table {
-    float: left;
-    margin: 0px 10px;
-    text-align: center;
-    border-collapse: collapse;
+	float: left;
+	margin: 0px 10px;
+	text-align: center;
+	border-collapse: collapse;
 }
 
 td {
-    text-align: left;
-    padding: 2px 8px;
+	text-align: left;
+	padding: 2px 8px;
 }
 
 td:first-child {
-    font-weight: bold;
+	font-weight: bold;
 }
