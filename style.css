@@ -53,3 +53,11 @@ td {
 td:first-child {
 	font-weight: bold;
 }
+
+.float-left {
+	float:left;
+}
+
+.no-float {
+	float: none;
+}
